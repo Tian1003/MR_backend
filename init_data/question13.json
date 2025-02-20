@@ -1,0 +1,274 @@
+{
+    "questions": [
+        {
+            "type_id": 1,
+            "first_mixed_number": null,
+            "first_numerator": 1,
+            "first_denominator": 8,
+            "operator": "+",
+            "second_mixed_number": null,
+            "second_numerator": 4,
+            "second_denominator": 8,
+            "answer_mixed_number": null,
+            "answer_numerator": 5,
+            "answer_denominator": 8,
+            "options": [
+                {
+                    "mixed_number": null,
+                    "numerator": 1,
+                    "denominator": 8
+                },
+                {
+                    "mixed_number": null,
+                    "numerator": 5,
+                    "denominator": 8
+                },
+                {
+                    "mixed_number": null,
+                    "numerator": -3,
+                    "denominator": 8
+                }
+            ]
+        },
+        {
+            "type_id": 1,
+            "first_mixed_number": null,
+            "first_numerator": 8,
+            "first_denominator": 12,
+            "operator": "-",
+            "second_mixed_number": null,
+            "second_numerator": 3,
+            "second_denominator": 12,
+            "answer_mixed_number": null,
+            "answer_numerator": 5,
+            "answer_denominator": 12,
+            "options": [
+                {
+                    "mixed_number": null,
+                    "numerator": 11,
+                    "denominator": 12
+                },
+                {
+                    "mixed_number": null,
+                    "numerator": 5,
+                    "denominator": 12
+                },
+                {
+                    "mixed_number": null,
+                    "numerator": 8,
+                    "denominator": 12
+                }
+            ]
+        },
+        {
+            "type_id": 1,
+            "first_mixed_number": null,
+            "first_numerator": 5,
+            "first_denominator": 6,
+            "operator": "-",
+            "second_mixed_number": null,
+            "second_numerator": 4,
+            "second_denominator": 6,
+            "answer_mixed_number": null,
+            "answer_numerator": 1,
+            "answer_denominator": 6,
+            "options": [
+                {
+                    "mixed_number": null,
+                    "numerator": 9,
+                    "denominator": 6
+                },
+                {
+                    "mixed_number": null,
+                    "numerator": 5,
+                    "denominator": 6
+                },
+                {
+                    "mixed_number": null,
+                    "numerator": 1,
+                    "denominator": 6
+                }
+            ]
+        },
+        {
+            "type_id": 1,
+            "first_mixed_number": null,
+            "first_numerator": 7,
+            "first_denominator": 10,
+            "operator": "-",
+            "second_mixed_number": null,
+            "second_numerator": 4,
+            "second_denominator": 10,
+            "answer_mixed_number": null,
+            "answer_numerator": 3,
+            "answer_denominator": 10,
+            "options": [
+                {
+                    "mixed_number": null,
+                    "numerator": 7,
+                    "denominator": 10
+                },
+                {
+                    "mixed_number": null,
+                    "numerator": 3,
+                    "denominator": 10
+                },
+                {
+                    "mixed_number": null,
+                    "numerator": 11,
+                    "denominator": 10
+                }
+            ]
+        },
+        {
+            "type_id": 1,
+            "first_mixed_number": null,
+            "first_numerator": 7,
+            "first_denominator": 8,
+            "operator": "-",
+            "second_mixed_number": null,
+            "second_numerator": 4,
+            "second_denominator": 8,
+            "answer_mixed_number": null,
+            "answer_numerator": 3,
+            "answer_denominator": 8,
+            "options": [
+                {
+                    "mixed_number": null,
+                    "numerator": 3,
+                    "denominator": 8
+                },
+                {
+                    "mixed_number": null,
+                    "numerator": 11,
+                    "denominator": 8
+                },
+                {
+                    "mixed_number": null,
+                    "numerator": 7,
+                    "denominator": 8
+                }
+            ]
+        },
+        {
+            "type_id": 1,
+            "first_mixed_number": null,
+            "first_numerator": 3,
+            "first_denominator": 6,
+            "operator": "+",
+            "second_mixed_number": null,
+            "second_numerator": 2,
+            "second_denominator": 6,
+            "answer_mixed_number": null,
+            "answer_numerator": 5,
+            "answer_denominator": 6,
+            "options": [
+                {
+                    "mixed_number": null,
+                    "numerator": 1,
+                    "denominator": 6
+                },
+                {
+                    "mixed_number": null,
+                    "numerator": 3,
+                    "denominator": 6
+                },
+                {
+                    "mixed_number": null,
+                    "numerator": 5,
+                    "denominator": 6
+                }
+            ]
+        },
+        {
+            "type_id": 1,
+            "first_mixed_number": null,
+            "first_numerator": 3,
+            "first_denominator": 5,
+            "operator": "-",
+            "second_mixed_number": null,
+            "second_numerator": 1,
+            "second_denominator": 5,
+            "answer_mixed_number": null,
+            "answer_numerator": 2,
+            "answer_denominator": 5,
+            "options": [
+                {
+                    "mixed_number": null,
+                    "numerator": 3,
+                    "denominator": 5
+                },
+                {
+                    "mixed_number": null,
+                    "numerator": 4,
+                    "denominator": 5
+                },
+                {
+                    "mixed_number": null,
+                    "numerator": 2,
+                    "denominator": 5
+                }
+            ]
+        },
+        {
+            "type_id": 1,
+            "first_mixed_number": null,
+            "first_numerator": 7,
+            "first_denominator": 9,
+            "operator": "-",
+            "second_mixed_number": null,
+            "second_numerator": 3,
+            "second_denominator": 9,
+            "answer_mixed_number": null,
+            "answer_numerator": 4,
+            "answer_denominator": 9,
+            "options": [
+                {
+                    "mixed_number": null,
+                    "numerator": 4,
+                    "denominator": 9
+                },
+                {
+                    "mixed_number": null,
+                    "numerator": 7,
+                    "denominator": 9
+                },
+                {
+                    "mixed_number": null,
+                    "numerator": 10,
+                    "denominator": 9
+                }
+            ]
+        },
+        {
+            "type_id": 1,
+            "first_mixed_number": null,
+            "first_numerator": 8,
+            "first_denominator": 10,
+            "operator": "-",
+            "second_mixed_number": null,
+            "second_numerator": 5,
+            "second_denominator": 10,
+            "answer_mixed_number": null,
+            "answer_numerator": 3,
+            "answer_denominator": 10,
+            "options": [
+                {
+                    "mixed_number": null,
+                    "numerator": 13,
+                    "denominator": 10
+                },
+                {
+                    "mixed_number": null,
+                    "numerator": 8,
+                    "denominator": 10
+                },
+                {
+                    "mixed_number": null,
+                    "numerator": 3,
+                    "denominator": 10
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,904 @@
+{
+    "questions": [
+        {
+            "type_id": 2,
+            "first_mixed_number": null,
+            "first_numerator": 13,
+            "first_denominator": 10,
+            "operator": "+",
+            "second_mixed_number": null,
+            "second_numerator": 9,
+            "second_denominator": 10,
+            "answer_mixed_number": null,
+            "answer_numerator": 22,
+            "answer_denominator": 10,
+            "options": [
+                {
+                    "mixed_number": null,
+                    "numerator": 4,
+                    "denominator": 10
+                },
+                {
+                    "mixed_number": null,
+                    "numerator": 22,
+                    "denominator": 10
+                },
+                {
+                    "mixed_number": null,
+                    "numerator": 13,
+                    "denominator": 10
+                }
+            ]
+        },
+        {
+            "type_id": 2,
+            "first_mixed_number": null,
+            "first_numerator": 19,
+            "first_denominator": 5,
+            "operator": "-",
+            "second_mixed_number": null,
+            "second_numerator": 7,
+            "second_denominator": 5,
+            "answer_mixed_number": null,
+            "answer_numerator": 12,
+            "answer_denominator": 5,
+            "options": [
+                {
+                    "mixed_number": null,
+                    "numerator": 19,
+                    "denominator": 5
+                },
+                {
+                    "mixed_number": null,
+                    "numerator": 12,
+                    "denominator": 5
+                },
+                {
+                    "mixed_number": null,
+                    "numerator": 26,
+                    "denominator": 5
+                }
+            ]
+        },
+        {
+            "type_id": 2,
+            "first_mixed_number": null,
+            "first_numerator": 7,
+            "first_denominator": 4,
+            "operator": "+",
+            "second_mixed_number": null,
+            "second_numerator": 16,
+            "second_denominator": 4,
+            "answer_mixed_number": null,
+            "answer_numerator": 23,
+            "answer_denominator": 4,
+            "options": [
+                {
+                    "mixed_number": null,
+                    "numerator": 7,
+                    "denominator": 4
+                },
+                {
+                    "mixed_number": null,
+                    "numerator": -9,
+                    "denominator": 4
+                },
+                {
+                    "mixed_number": null,
+                    "numerator": 23,
+                    "denominator": 4
+                }
+            ]
+        },
+        {
+            "type_id": 2,
+            "first_mixed_number": null,
+            "first_numerator": 17,
+            "first_denominator": 6,
+            "operator": "-",
+            "second_mixed_number": null,
+            "second_numerator": 8,
+            "second_denominator": 6,
+            "answer_mixed_number": null,
+            "answer_numerator": 9,
+            "answer_denominator": 6,
+            "options": [
+                {
+                    "mixed_number": null,
+                    "numerator": 9,
+                    "denominator": 6
+                },
+                {
+                    "mixed_number": null,
+                    "numerator": 17,
+                    "denominator": 6
+                },
+                {
+                    "mixed_number": null,
+                    "numerator": 25,
+                    "denominator": 6
+                }
+            ]
+        },
+        {
+            "type_id": 2,
+            "first_mixed_number": null,
+            "first_numerator": 16,
+            "first_denominator": 2,
+            "operator": "+",
+            "second_mixed_number": null,
+            "second_numerator": 7,
+            "second_denominator": 2,
+            "answer_mixed_number": null,
+            "answer_numerator": 23,
+            "answer_denominator": 2,
+            "options": [
+                {
+                    "mixed_number": null,
+                    "numerator": 23,
+                    "denominator": 2
+                },
+                {
+                    "mixed_number": null,
+                    "numerator": 9,
+                    "denominator": 2
+                },
+                {
+                    "mixed_number": null,
+                    "numerator": 16,
+                    "denominator": 2
+                }
+            ]
+        },
+        {
+            "type_id": 2,
+            "first_mixed_number": null,
+            "first_numerator": 7,
+            "first_denominator": 3,
+            "operator": "+",
+            "second_mixed_number": null,
+            "second_numerator": 14,
+            "second_denominator": 3,
+            "answer_mixed_number": null,
+            "answer_numerator": 21,
+            "answer_denominator": 3,
+            "options": [
+                {
+                    "mixed_number": null,
+                    "numerator": -7,
+                    "denominator": 3
+                },
+                {
+                    "mixed_number": null,
+                    "numerator": 7,
+                    "denominator": 3
+                },
+                {
+                    "mixed_number": null,
+                    "numerator": 21,
+                    "denominator": 3
+                }
+            ]
+        },
+        {
+            "type_id": 2,
+            "first_mixed_number": null,
+            "first_numerator": 15,
+            "first_denominator": 6,
+            "operator": "-",
+            "second_mixed_number": null,
+            "second_numerator": 8,
+            "second_denominator": 6,
+            "answer_mixed_number": null,
+            "answer_numerator": 7,
+            "answer_denominator": 6,
+            "options": [
+                {
+                    "mixed_number": null,
+                    "numerator": 23,
+                    "denominator": 6
+                },
+                {
+                    "mixed_number": null,
+                    "numerator": 7,
+                    "denominator": 6
+                },
+                {
+                    "mixed_number": null,
+                    "numerator": 15,
+                    "denominator": 6
+                }
+            ]
+        },
+        {
+            "type_id": 2,
+            "first_mixed_number": null,
+            "first_numerator": 24,
+            "first_denominator": 8,
+            "operator": "-",
+            "second_mixed_number": null,
+            "second_numerator": 15,
+            "second_denominator": 8,
+            "answer_mixed_number": null,
+            "answer_numerator": 9,
+            "answer_denominator": 8,
+            "options": [
+                {
+                    "mixed_number": null,
+                    "numerator": 9,
+                    "denominator": 8
+                },
+                {
+                    "mixed_number": null,
+                    "numerator": 24,
+                    "denominator": 8
+                },
+                {
+                    "mixed_number": null,
+                    "numerator": 39,
+                    "denominator": 8
+                }
+            ]
+        },
+        {
+            "type_id": 2,
+            "first_mixed_number": null,
+            "first_numerator": 24,
+            "first_denominator": 10,
+            "operator": "-",
+            "second_mixed_number": null,
+            "second_numerator": 16,
+            "second_denominator": 10,
+            "answer_mixed_number": null,
+            "answer_numerator": 8,
+            "answer_denominator": 10,
+            "options": [
+                {
+                    "mixed_number": null,
+                    "numerator": 40,
+                    "denominator": 10
+                },
+                {
+                    "mixed_number": null,
+                    "numerator": 8,
+                    "denominator": 10
+                },
+                {
+                    "mixed_number": null,
+                    "numerator": 24,
+                    "denominator": 10
+                }
+            ]
+        },
+        {
+            "type_id": 2,
+            "first_mixed_number": null,
+            "first_numerator": 18,
+            "first_denominator": 12,
+            "operator": "-",
+            "second_mixed_number": null,
+            "second_numerator": 13,
+            "second_denominator": 12,
+            "answer_mixed_number": null,
+            "answer_numerator": 5,
+            "answer_denominator": 12,
+            "options": [
+                {
+                    "mixed_number": null,
+                    "numerator": 5,
+                    "denominator": 12
+                },
+                {
+                    "mixed_number": null,
+                    "numerator": 18,
+                    "denominator": 12
+                },
+                {
+                    "mixed_number": null,
+                    "numerator": 31,
+                    "denominator": 12
+                }
+            ]
+        },
+        {
+            "type_id": 2,
+            "first_mixed_number": null,
+            "first_numerator": 24,
+            "first_denominator": 12,
+            "operator": "-",
+            "second_mixed_number": null,
+            "second_numerator": 18,
+            "second_denominator": 12,
+            "answer_mixed_number": null,
+            "answer_numerator": 6,
+            "answer_denominator": 12,
+            "options": [
+                {
+                    "mixed_number": null,
+                    "numerator": 24,
+                    "denominator": 12
+                },
+                {
+                    "mixed_number": null,
+                    "numerator": 6,
+                    "denominator": 12
+                },
+                {
+                    "mixed_number": null,
+                    "numerator": 42,
+                    "denominator": 12
+                }
+            ]
+        },
+        {
+            "type_id": 2,
+            "first_mixed_number": null,
+            "first_numerator": 9,
+            "first_denominator": 2,
+            "operator": "+",
+            "second_mixed_number": null,
+            "second_numerator": 11,
+            "second_denominator": 2,
+            "answer_mixed_number": null,
+            "answer_numerator": 20,
+            "answer_denominator": 2,
+            "options": [
+                {
+                    "mixed_number": null,
+                    "numerator": 9,
+                    "denominator": 2
+                },
+                {
+                    "mixed_number": null,
+                    "numerator": 20,
+                    "denominator": 2
+                },
+                {
+                    "mixed_number": null,
+                    "numerator": -2,
+                    "denominator": 2
+                }
+            ]
+        },
+        {
+            "type_id": 2,
+            "first_mixed_number": null,
+            "first_numerator": 18,
+            "first_denominator": 3,
+            "operator": "-",
+            "second_mixed_number": null,
+            "second_numerator": 12,
+            "second_denominator": 3,
+            "answer_mixed_number": null,
+            "answer_numerator": 6,
+            "answer_denominator": 3,
+            "options": [
+                {
+                    "mixed_number": null,
+                    "numerator": 18,
+                    "denominator": 3
+                },
+                {
+                    "mixed_number": null,
+                    "numerator": 6,
+                    "denominator": 3
+                },
+                {
+                    "mixed_number": null,
+                    "numerator": 30,
+                    "denominator": 3
+                }
+            ]
+        },
+        {
+            "type_id": 2,
+            "first_mixed_number": null,
+            "first_numerator": 9,
+            "first_denominator": 4,
+            "operator": "+",
+            "second_mixed_number": null,
+            "second_numerator": 12,
+            "second_denominator": 4,
+            "answer_mixed_number": null,
+            "answer_numerator": 21,
+            "answer_denominator": 4,
+            "options": [
+                {
+                    "mixed_number": null,
+                    "numerator": 9,
+                    "denominator": 4
+                },
+                {
+                    "mixed_number": null,
+                    "numerator": 21,
+                    "denominator": 4
+                },
+                {
+                    "mixed_number": null,
+                    "numerator": -3,
+                    "denominator": 4
+                }
+            ]
+        },
+        {
+            "type_id": 2,
+            "first_mixed_number": null,
+            "first_numerator": 17,
+            "first_denominator": 5,
+            "operator": "+",
+            "second_mixed_number": null,
+            "second_numerator": 7,
+            "second_denominator": 5,
+            "answer_mixed_number": null,
+            "answer_numerator": 24,
+            "answer_denominator": 5,
+            "options": [
+                {
+                    "mixed_number": null,
+                    "numerator": 24,
+                    "denominator": 5
+                },
+                {
+                    "mixed_number": null,
+                    "numerator": 17,
+                    "denominator": 5
+                },
+                {
+                    "mixed_number": null,
+                    "numerator": 10,
+                    "denominator": 5
+                }
+            ]
+        },
+        {
+            "type_id": 2,
+            "first_mixed_number": null,
+            "first_numerator": 20,
+            "first_denominator": 6,
+            "operator": "-",
+            "second_mixed_number": null,
+            "second_numerator": 13,
+            "second_denominator": 6,
+            "answer_mixed_number": null,
+            "answer_numerator": 7,
+            "answer_denominator": 6,
+            "options": [
+                {
+                    "mixed_number": null,
+                    "numerator": 33,
+                    "denominator": 6
+                },
+                {
+                    "mixed_number": null,
+                    "numerator": 20,
+                    "denominator": 6
+                },
+                {
+                    "mixed_number": null,
+                    "numerator": 7,
+                    "denominator": 6
+                }
+            ]
+        },
+        {
+            "type_id": 2,
+            "first_mixed_number": null,
+            "first_numerator": 8,
+            "first_denominator": 3,
+            "operator": "+",
+            "second_mixed_number": null,
+            "second_numerator": 11,
+            "second_denominator": 3,
+            "answer_mixed_number": null,
+            "answer_numerator": 19,
+            "answer_denominator": 3,
+            "options": [
+                {
+                    "mixed_number": null,
+                    "numerator": 8,
+                    "denominator": 3
+                },
+                {
+                    "mixed_number": null,
+                    "numerator": 19,
+                    "denominator": 3
+                },
+                {
+                    "mixed_number": null,
+                    "numerator": -3,
+                    "denominator": 3
+                }
+            ]
+        },
+        {
+            "type_id": 2,
+            "first_mixed_number": null,
+            "first_numerator": 14,
+            "first_denominator": 8,
+            "operator": "-",
+            "second_mixed_number": null,
+            "second_numerator": 9,
+            "second_denominator": 8,
+            "answer_mixed_number": null,
+            "answer_numerator": 5,
+            "answer_denominator": 8,
+            "options": [
+                {
+                    "mixed_number": null,
+                    "numerator": 5,
+                    "denominator": 8
+                },
+                {
+                    "mixed_number": null,
+                    "numerator": 23,
+                    "denominator": 8
+                },
+                {
+                    "mixed_number": null,
+                    "numerator": 14,
+                    "denominator": 8
+                }
+            ]
+        },
+        {
+            "type_id": 2,
+            "first_mixed_number": null,
+            "first_numerator": 11,
+            "first_denominator": 10,
+            "operator": "+",
+            "second_mixed_number": null,
+            "second_numerator": 12,
+            "second_denominator": 10,
+            "answer_mixed_number": null,
+            "answer_numerator": 23,
+            "answer_denominator": 10,
+            "options": [
+                {
+                    "mixed_number": null,
+                    "numerator": 11,
+                    "denominator": 10
+                },
+                {
+                    "mixed_number": null,
+                    "numerator": 23,
+                    "denominator": 10
+                },
+                {
+                    "mixed_number": null,
+                    "numerator": -1,
+                    "denominator": 10
+                }
+            ]
+        },
+        {
+            "type_id": 2,
+            "first_mixed_number": null,
+            "first_numerator": 13,
+            "first_denominator": 8,
+            "operator": "-",
+            "second_mixed_number": null,
+            "second_numerator": 9,
+            "second_denominator": 8,
+            "answer_mixed_number": null,
+            "answer_numerator": 4,
+            "answer_denominator": 8,
+            "options": [
+                {
+                    "mixed_number": null,
+                    "numerator": 4,
+                    "denominator": 8
+                },
+                {
+                    "mixed_number": null,
+                    "numerator": 22,
+                    "denominator": 8
+                },
+                {
+                    "mixed_number": null,
+                    "numerator": 13,
+                    "denominator": 8
+                }
+            ]
+        },
+        {
+            "type_id": 2,
+            "first_mixed_number": null,
+            "first_numerator": 16,
+            "first_denominator": 6,
+            "operator": "+",
+            "second_mixed_number": null,
+            "second_numerator": 7,
+            "second_denominator": 6,
+            "answer_mixed_number": null,
+            "answer_numerator": 23,
+            "answer_denominator": 6,
+            "options": [
+                {
+                    "mixed_number": null,
+                    "numerator": 23,
+                    "denominator": 6
+                },
+                {
+                    "mixed_number": null,
+                    "numerator": 16,
+                    "denominator": 6
+                },
+                {
+                    "mixed_number": null,
+                    "numerator": 9,
+                    "denominator": 6
+                }
+            ]
+        },
+        {
+            "type_id": 2,
+            "first_mixed_number": null,
+            "first_numerator": 21,
+            "first_denominator": 5,
+            "operator": "-",
+            "second_mixed_number": null,
+            "second_numerator": 14,
+            "second_denominator": 5,
+            "answer_mixed_number": null,
+            "answer_numerator": 7,
+            "answer_denominator": 5,
+            "options": [
+                {
+                    "mixed_number": null,
+                    "numerator": 35,
+                    "denominator": 5
+                },
+                {
+                    "mixed_number": null,
+                    "numerator": 7,
+                    "denominator": 5
+                },
+                {
+                    "mixed_number": null,
+                    "numerator": 21,
+                    "denominator": 5
+                }
+            ]
+        },
+        {
+            "type_id": 2,
+            "first_mixed_number": null,
+            "first_numerator": 10,
+            "first_denominator": 4,
+            "operator": "+",
+            "second_mixed_number": null,
+            "second_numerator": 13,
+            "second_denominator": 4,
+            "answer_mixed_number": null,
+            "answer_numerator": 23,
+            "answer_denominator": 4,
+            "options": [
+                {
+                    "mixed_number": null,
+                    "numerator": 23,
+                    "denominator": 4
+                },
+                {
+                    "mixed_number": null,
+                    "numerator": -3,
+                    "denominator": 4
+                },
+                {
+                    "mixed_number": null,
+                    "numerator": 10,
+                    "denominator": 4
+                }
+            ]
+        },
+        {
+            "type_id": 2,
+            "first_mixed_number": null,
+            "first_numerator": 23,
+            "first_denominator": 6,
+            "operator": "-",
+            "second_mixed_number": null,
+            "second_numerator": 18,
+            "second_denominator": 6,
+            "answer_mixed_number": null,
+            "answer_numerator": 5,
+            "answer_denominator": 6,
+            "options": [
+                {
+                    "mixed_number": null,
+                    "numerator": 5,
+                    "denominator": 6
+                },
+                {
+                    "mixed_number": null,
+                    "numerator": 23,
+                    "denominator": 6
+                },
+                {
+                    "mixed_number": null,
+                    "numerator": 41,
+                    "denominator": 6
+                }
+            ]
+        },
+        {
+            "type_id": 2,
+            "first_mixed_number": null,
+            "first_numerator": 17,
+            "first_denominator": 3,
+            "operator": "-",
+            "second_mixed_number": null,
+            "second_numerator": 5,
+            "second_denominator": 3,
+            "answer_mixed_number": null,
+            "answer_numerator": 12,
+            "answer_denominator": 3,
+            "options": [
+                {
+                    "mixed_number": null,
+                    "numerator": 17,
+                    "denominator": 3
+                },
+                {
+                    "mixed_number": null,
+                    "numerator": 12,
+                    "denominator": 3
+                },
+                {
+                    "mixed_number": null,
+                    "numerator": 22,
+                    "denominator": 3
+                }
+            ]
+        },
+        {
+            "type_id": 2,
+            "first_mixed_number": null,
+            "first_numerator": 15,
+            "first_denominator": 4,
+            "operator": "+",
+            "second_mixed_number": null,
+            "second_numerator": 7,
+            "second_denominator": 4,
+            "answer_mixed_number": null,
+            "answer_numerator": 22,
+            "answer_denominator": 4,
+            "options": [
+                {
+                    "mixed_number": null,
+                    "numerator": 15,
+                    "denominator": 4
+                },
+                {
+                    "mixed_number": null,
+                    "numerator": 8,
+                    "denominator": 4
+                },
+                {
+                    "mixed_number": null,
+                    "numerator": 22,
+                    "denominator": 4
+                }
+            ]
+        },
+        {
+            "type_id": 2,
+            "first_mixed_number": null,
+            "first_numerator": 22,
+            "first_denominator": 12,
+            "operator": "-",
+            "second_mixed_number": null,
+            "second_numerator": 15,
+            "second_denominator": 12,
+            "answer_mixed_number": null,
+            "answer_numerator": 7,
+            "answer_denominator": 12,
+            "options": [
+                {
+                    "mixed_number": null,
+                    "numerator": 7,
+                    "denominator": 12
+                },
+                {
+                    "mixed_number": null,
+                    "numerator": 22,
+                    "denominator": 12
+                },
+                {
+                    "mixed_number": null,
+                    "numerator": 37,
+                    "denominator": 12
+                }
+            ]
+        },
+        {
+            "type_id": 2,
+            "first_mixed_number": null,
+            "first_numerator": 23,
+            "first_denominator": 12,
+            "operator": "+",
+            "second_mixed_number": null,
+            "second_numerator": 14,
+            "second_denominator": 12,
+            "answer_mixed_number": null,
+            "answer_numerator": 37,
+            "answer_denominator": 12,
+            "options": [
+                {
+                    "mixed_number": null,
+                    "numerator": 23,
+                    "denominator": 12
+                },
+                {
+                    "mixed_number": null,
+                    "numerator": 9,
+                    "denominator": 12
+                },
+                {
+                    "mixed_number": null,
+                    "numerator": 37,
+                    "denominator": 12
+                }
+            ]
+        },
+        {
+            "type_id": 2,
+            "first_mixed_number": null,
+            "first_numerator": 13,
+            "first_denominator": 2,
+            "operator": "-",
+            "second_mixed_number": null,
+            "second_numerator": 7,
+            "second_denominator": 2,
+            "answer_mixed_number": null,
+            "answer_numerator": 6,
+            "answer_denominator": 2,
+            "options": [
+                {
+                    "mixed_number": null,
+                    "numerator": 20,
+                    "denominator": 2
+                },
+                {
+                    "mixed_number": null,
+                    "numerator": 6,
+                    "denominator": 2
+                },
+                {
+                    "mixed_number": null,
+                    "numerator": 13,
+                    "denominator": 2
+                }
+            ]
+        },
+        {
+            "type_id": 2,
+            "first_mixed_number": null,
+            "first_numerator": 8,
+            "first_denominator": 6,
+            "operator": "+",
+            "second_mixed_number": null,
+            "second_numerator": 9,
+            "second_denominator": 6,
+            "answer_mixed_number": null,
+            "answer_numerator": 17,
+            "answer_denominator": 6,
+            "options": [
+                {
+                    "mixed_number": null,
+                    "numerator": 17,
+                    "denominator": 6
+                },
+                {
+                    "mixed_number": null,
+                    "numerator": -1,
+                    "denominator": 6
+                },
+                {
+                    "mixed_number": null,
+                    "numerator": 8,
+                    "denominator": 6
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+.env
+.env.prod
+
+__pycache__
+
+.coverage
+
+/build
+/dist
+
+wsgi.spec
+initial_db.spec
