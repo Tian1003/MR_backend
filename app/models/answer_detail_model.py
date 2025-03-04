@@ -12,7 +12,7 @@ class AnswerDetailModel(BaseModel):
     level = Column(Integer, nullable=False)
     selected_mixed_number = Column(Integer, nullable=True)
     selected_numerator = Column(Integer, nullable=True)
-    selected_denominator = Column(Integer, nullable=True)
+    selected_denominator = Column(Integer, nullable=True) 
     selected_operator = Column(String(2), nullable=True)
 
     question = relationship(QuestionModel, backref='questions')

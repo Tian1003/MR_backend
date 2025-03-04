@@ -8,7 +8,7 @@ class ScenarioQuestionModel(BaseModel):
 
     id = Column(Integer, primary_key=True, autoincrement=True)
     scenario_element_id = Column(Integer, ForeignKey('scenario_elements.id'), nullable=False)
-    mixed_number = Column(Integer, nullable=True)
+    mixed_number = Column(Integer, nullable=True) #帶分整數
     numerator = Column(Integer, nullable=True)
     denominator = Column(Integer, nullable=True)
 
